@@ -1,3 +1,3 @@
-#Friendly-parakeet: Random Password Generator
+# Friendly-parakeet: Random Password Generator
 
-##Screenshot
+## Screenshot
